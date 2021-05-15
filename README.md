@@ -8,8 +8,8 @@ Shiny is an R package that makes it easy to build interactive web apps straight 
 
 
 ## **PROBLEM STATEMENT**
-•	Visualizing the team and player performance from 2008 – 2019.
-•	Linear regression model for match win.
+- Visualizing the team and player performance from 2008 – 2019
+- Linear regression model for match win
 
 
 ## **METHODOLOGY USED**
