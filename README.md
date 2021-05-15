@@ -38,6 +38,26 @@ The best fitting regression model was figured out using the Least Squared Method
 R^2=∑▒〖(y_p-y)〗^2/〖(y-(y)) ̅〗^2 
 
 
+## **DATASET**
+The dataset was collected from kaggle.com. There was a total of 6 csv files which give a description about the data from 2008 – 2019.
+### ***Teams***
+Teams dataset gave us an overlook about all the teams that have played so far in IPL.
+
+### ***Players***
+The players dataset gives an idea about the players (DOB, Country, etc.)
+
+### ***Team Wins***
+Team wise wins explained about the winning and losing count of each teams so far.
+
+### ***Matches****
+Matches dataset gives a detailed explanation of the matches that have taken place so far, i.e., venue name, umpires, etc.
+
+### ***Deliveries***
+Deliveries dataset explains about each delivery that have taken place. This is a very huge dataset comprising nearly 1,70,000 rows.
+
+### ***Most Runs***
+Most runs explain about the average strike-rate and runs scored by each batsman throughout the season.
+
 
 ## **RESULT**
 The aim of the project was to give a visual representation of IPL from 2008 –2019. We have made this dashboard accordingly that, for a newbie to IPL, he/she can easily figure out what an idea about IPL.
