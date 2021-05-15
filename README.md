@@ -21,11 +21,11 @@ IPL is a very popular sport event widely accepted by everyone. But for a newbie,
 The data for the study was collected from kaggle.com. IPL was stared from 2008, so we have chosen the data from 2008 to 2019. The data was divided in 6 csv files, which covered all the details of IPL so far. So, data cleaning was an essential part before getting into further study.
 
 
-### ***Data Cleaning****
+### ***Data Cleaning***
 The dataset collected from Kaggle had 6 csv files, which comprises of the data from 2008 to 2019. The study required to clean the dataset before entering into analysis. 
 Data preprocessing was done using python. The csv files were imported to python and were altered and preprocessed using the preprocessing packages (SKLEARN) that python provides. After cleaning the data was exported as xlsx file and were taken to do the analysis on RT Studio.
 
-### ***Data Analysis****
+### ***Data Analysis***
 Statistical analysis is the important thing before doing any kind of visualization. This was done by asking question to the final dataset that we had. Then we brought the question into the dashboard.
 Graphs were plotted on the basis of each seasons. It showed the top 10 major aspects of the play. This help the user to understand about each season. 
 A linear regression plot was made on the wins and lose of each team. The model helped to understand the trend in winning and losing of the game.
