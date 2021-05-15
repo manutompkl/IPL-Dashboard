@@ -42,22 +42,27 @@ R^2=∑▒〖(y_p-y)〗^2/〖(y-(y)) ̅〗^2
 ## **RESULT**
 The aim of the project was to give a visual representation of IPL from 2008 –2019. We have made this dashboard accordingly that, for a newbie to IPL, he/she can easily figure out what an idea about IPL.
 The about part of the dashboard gives a brief description about IPL followed by a visual representation of teams and their logos.
+
 ![image](https://user-images.githubusercontent.com/84194718/118348204-5ad2fb00-b566-11eb-8309-0a51828a825b.png)
 
 
 The IPL overview gives us an idea about the overall status from 2008 – 2019. It explains the aspects like total number of matches taken place, the number of matches etc. The best players of each visualized along with their photos.
+
 ![image](https://user-images.githubusercontent.com/84194718/118348207-6a524400-b566-11eb-8de7-9bba2c2382d1.png)
 
 
 Top performance by seasons gives a picture on the details of the players who have performed well on that particular season. For the ease of visualization, we have selected the top 10 of each season. Bar plots were plotted for the easily understanding the count.
+
 ![image](https://user-images.githubusercontent.com/84194718/118348212-73431580-b566-11eb-9496-2fd0bca848ce.png)
 
 
-Player profile give an overview about the team in which he has played and their playing status (both batting and bowling). 
+Player profile give an overview about the team in which he has played and their playing status (both batting and bowling).
+
 ![image](https://user-images.githubusercontent.com/84194718/118348232-83f38b80-b566-11eb-9e65-627360afa971.png)
 
 
 Winning regression is a regression model created on the basis of winning and losing matches (home and away). This helps us to understand the trend in winning and can make future analysis on the winning chance of teams. It was observed that the number of wins is more when the matches are played in the home city.
+
 ![image](https://user-images.githubusercontent.com/84194718/118348254-97065b80-b566-11eb-968b-f5670bedd5c1.png)
 
 
