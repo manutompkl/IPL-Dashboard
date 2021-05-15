@@ -49,7 +49,7 @@ The players dataset gives an idea about the players (DOB, Country, etc.)
 ### ***Team Wins***
 Team wise wins explained about the winning and losing count of each teams so far.
 
-### ***Matches****
+### ***Matches***
 Matches dataset gives a detailed explanation of the matches that have taken place so far, i.e., venue name, umpires, etc.
 
 ### ***Deliveries***
